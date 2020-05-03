@@ -1,6 +1,6 @@
 {
   "name": "garage-app",
-  "homepage": "http://danielmcopeland.github.io/garage-app",
+  "homepage": "http://danielmcopeland.github.io/garage-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
