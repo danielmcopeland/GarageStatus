@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+.Open-garage {
+  height: 40vmin;
+  pointer-events: none;
+  fill: red;
+}
+
+.Closed-garage {
+  height: 40vmin;
+  pointer-events: none;
+  fill: green;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -26,6 +39,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Green {
+  color: green;
+}
+
+.Red {
+  color: red;
+}
+
+.Blue {
+  color:rgb(97, 218, 251);
 }
 
 @keyframes App-logo-spin {
