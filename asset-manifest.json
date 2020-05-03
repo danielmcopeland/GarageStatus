@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/garage-app/static/css/main.ee3dccb3.chunk.css",
+    "main.js": "/garage-app/static/js/main.eca7dd4b.chunk.js",
+    "main.js.map": "/garage-app/static/js/main.eca7dd4b.chunk.js.map",
+    "runtime-main.js": "/garage-app/static/js/runtime-main.05a30ed5.js",
+    "runtime-main.js.map": "/garage-app/static/js/runtime-main.05a30ed5.js.map",
+    "static/js/2.281fa9ac.chunk.js": "/garage-app/static/js/2.281fa9ac.chunk.js",
+    "static/js/2.281fa9ac.chunk.js.map": "/garage-app/static/js/2.281fa9ac.chunk.js.map",
+    "index.html": "/garage-app/index.html",
+    "precache-manifest.90fce7897afeb41be8b5d16aea58ed6d.js": "/garage-app/precache-manifest.90fce7897afeb41be8b5d16aea58ed6d.js",
+    "service-worker.js": "/garage-app/service-worker.js",
+    "static/css/main.ee3dccb3.chunk.css.map": "/garage-app/static/css/main.ee3dccb3.chunk.css.map",
+    "static/js/2.281fa9ac.chunk.js.LICENSE.txt": "/garage-app/static/js/2.281fa9ac.chunk.js.LICENSE.txt",
+    "static/media/closedGarage.842ee1cc.svg": "/garage-app/static/media/closedGarage.842ee1cc.svg",
+    "static/media/logo.5d5d9eef.svg": "/garage-app/static/media/logo.5d5d9eef.svg",
+    "static/media/openGarage.60ad5ffa.svg": "/garage-app/static/media/openGarage.60ad5ffa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a30ed5.js",
+    "static/js/2.281fa9ac.chunk.js",
+    "static/css/main.ee3dccb3.chunk.css",
+    "static/js/main.eca7dd4b.chunk.js"
+  ]
+}
